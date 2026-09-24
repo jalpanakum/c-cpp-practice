@@ -44,6 +44,8 @@ The programs are organized progressively, starting with basic C concepts and mov
 | `10_file_handling.c` | File Handling | Demonstrates opening, reading, writing, and closing files |
 | `11_command_line_arguments.c` | Command-Line Arguments | Demonstrates argc and argv |
 | `12_bitwise_operators.c` | Bitwise Operators | Demonstrates AND, OR, XOR, NOT, and bit shifting |
+| `13_bit_manipulation.c` | Bit Manipulation | Demonstrates setting, clearing, toggling, and checking individual bits |
+
 
 ## 📝 Learning Notes
 
