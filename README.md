@@ -46,6 +46,7 @@ The programs are organized progressively, starting with basic C concepts and mov
 | `12_bitwise_operators.c` | Bitwise Operators | Demonstrates AND, OR, XOR, NOT, and bit shifting |
 | `13_bit_manipulation.c` | Bit Manipulation | Demonstrates setting, clearing, toggling, and checking individual bits |
 | `14_function_pointers.c` | Function Pointers | Demonstrates function pointers and callback-style function passing |
+| `15_static_extern.c` | Storage Classes | Demonstrates static local variables, static functions, and extern |
 
 
 ## 📝 Learning Notes
