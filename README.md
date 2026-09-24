@@ -38,6 +38,7 @@ The programs are organized progressively, starting with basic C concepts and mov
 | `04_strings.c`     | Strings   | Reads and processes a string                 |
 | `05_functions.c`   | Functions | Demonstrates defining and calling a function |
 | `06_recursion.c`   | Recursion | Calculates factorial using recursion         |
+| `07_structures.c` | Structures | Stores and displays student information using a structure |
 
 ## 📝 Learning Notes
 
@@ -98,7 +99,14 @@ factorial(5)
 → 5 × 4 × 3 × 2 × factorial(1)
 → 120
 ```
+### 7. Structures — `07_structures.c`
 
+- A structure groups related variables of different data types.
+- `struct Student` defines a new structure type.
+- Structure members are accessed using the `.` operator.
+- Structures are useful for representing real-world entities such as students, employees, products, and devices.
+
+  
 ## 🎯 Goal
 
 The goal of this repository is to build strong C/C++ fundamentals through hands-on practice and gradually progress toward interview-level programming and systems concepts.
