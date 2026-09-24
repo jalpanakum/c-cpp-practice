@@ -42,6 +42,7 @@ The programs are organized progressively, starting with basic C concepts and mov
 | `08_dynamic_memory.c` | Dynamic Memory Allocation | Uses malloc and free to allocate and release memory dynamically |
 | `09_calloc_realloc.c` | Dynamic Memory Allocation | Demonstrates calloc, realloc, and free |
 | `10_file_handling.c` | File Handling | Demonstrates opening, reading, writing, and closing files |
+| `11_command_line_arguments.c` | Command-Line Arguments | Demonstrates argc and argv |
 
 ## 📝 Learning Notes
 
