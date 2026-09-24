@@ -45,6 +45,7 @@ The programs are organized progressively, starting with basic C concepts and mov
 | `11_command_line_arguments.c` | Command-Line Arguments | Demonstrates argc and argv |
 | `12_bitwise_operators.c` | Bitwise Operators | Demonstrates AND, OR, XOR, NOT, and bit shifting |
 | `13_bit_manipulation.c` | Bit Manipulation | Demonstrates setting, clearing, toggling, and checking individual bits |
+| `14_function_pointers.c` | Function Pointers | Demonstrates function pointers and callback-style function passing |
 
 
 ## 📝 Learning Notes
